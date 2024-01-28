@@ -84,25 +84,28 @@ i.glyphicon.glyphicon-search{
   max-height:1112px;
 }
 
-#background .jumbotron{
-  background-image: url('assets/img/candi.jpg');
-  margin-left:137px;
-  max-width:1000px;
-  margin-top:22px;
+#background .jumbotron {
+    background-image: url('assets/img/candi.jpg');
+    margin-left: 137px;
+    max-width: 1000px;
+    margin-top: 22px;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 50px;
 }
 
-#background .jumbotron h1{
-  font-family:nexa;
-  color:white;
-  margin-bottom:-12px;
+#background .jumbotron h1 {
+    font-family: 'Nexa', sans-serif; /* Ganti 'nexa' dengan nama font yang benar */
+    color: white;
+    margin-bottom: -12px;
 }
 
-#background .jumbotron p{
-  font-family:raleway;
-  color:white;
-  margin-bottom:-12px;
-  margin-top:27px;
-  padding-right:307px;
+#background .jumbotron p {
+    font-family: 'Raleway', sans-serif; /* Ganti 'raleway' dengan nama font yang benar */
+    color: white;
+    margin-bottom: -12px;
+    margin-top
 }
 
 #home{
