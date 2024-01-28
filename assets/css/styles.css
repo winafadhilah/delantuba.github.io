@@ -84,6 +84,30 @@ i.glyphicon.glyphicon-search{
   max-height:1112px;
 }
 
+
+  .teks-box {
+    background-color: #f8f9fa; /* Warna latar belakang */
+    padding: 30px; /* Ruang dalam box */
+    border: 2px solid #007bff; /* Warna border dan ketebalan border */
+    border-radius: 15px; /* Rounding sudut */
+    text-align: center; /* Posisi teks di tengah */
+    max-width: 800px; /* Lebar maksimum box */
+    margin: 0 auto; /* Centering box secara horizontal */
+  }
+
+  /* Styling tombol Explore */
+  .teks-box a.btn {
+    color: #ffffff; /* Warna teks tombol */
+    background-color: #007bff; /* Warna latar tombol */
+    border-color: #007bff; /* Warna border tombol */
+  }
+
+  .teks-box a.btn:hover {
+    color: #ffffff; /* Warna teks tombol saat hover */
+    background-color: #0056b3; /* Warna latar tombol saat hover */
+    border-color: #0056b3; /* Warna border tombol saat hover */
+  }
+
 #background .jumbotron{
   background-image: url('assets/img/candi.jpg');
   margin-left:137px;
