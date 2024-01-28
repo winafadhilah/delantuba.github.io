@@ -85,7 +85,7 @@ i.glyphicon.glyphicon-search{
 }
 
 #background .jumbotron {
-    background-image: url('assets/img/candi.jpg');
+    background-image: url('../assets/img/candi.jpg');
     margin-left: 137px;
     max-width: 1000px;
     margin-top: 22px;
